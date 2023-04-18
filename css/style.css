@@ -1,0 +1,25 @@
+
+body{
+    background-color: #C0DBEA;
+}
+
+img{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+.intro-text
+{
+    width: 50%;
+    text-align: justify;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 4%;
+    border-color: #CE5959;
+    /* border-color: #eaf6f6; */
+    /* margin: 100px auto; */
+}
